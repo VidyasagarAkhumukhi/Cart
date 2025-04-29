@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className='nav-center'>
-        <h4>Cart</h4>
+        <h4><a href="https://www.linkedin.com/in/vidyasagar-akhumukhi/" style={{ color: 'white' }}>Cart</a></h4>
         <div className='nav-container'>
           <FaCartPlus className='cart-icon' />
           <div className='amount-container'>

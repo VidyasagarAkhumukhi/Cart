@@ -16,7 +16,7 @@ This project is a functional shopping cart interface built with React, demonstra
 
 ## 🚀 Live Demo
 
-[Link to Live Demo]() 
+[Link to Live Demo](https://cartnoto.netlify.app/) 
 
 ## 🛠️ Technologies Used
 
